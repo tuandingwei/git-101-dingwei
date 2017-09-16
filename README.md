@@ -7,3 +7,5 @@ Sample project that I want to work on:
 
 1. Create a personnal website 
 2. Create a mobile app
+
+Hello!
